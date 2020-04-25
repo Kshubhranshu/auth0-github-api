@@ -4,8 +4,6 @@ class Profile extends Component {
 
     render() {
         let userdata = this.props.userData;
-        console.log("inside profile")
-        console.log(userdata);
         let followers = `${userdata.homeUrl}/followers`;
         let following = `${userdata.homeUrl}/following`;
         let repos = `${userdata.homeUrl}/repository`;
