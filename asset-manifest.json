@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/auth0-github-api/static/css/main.b0cb1113.chunk.css",
+    "main.js": "/auth0-github-api/static/js/main.9ad30934.chunk.js",
+    "main.js.map": "/auth0-github-api/static/js/main.9ad30934.chunk.js.map",
+    "runtime-main.js": "/auth0-github-api/static/js/runtime-main.cbd1b679.js",
+    "runtime-main.js.map": "/auth0-github-api/static/js/runtime-main.cbd1b679.js.map",
+    "static/css/2.69121389.chunk.css": "/auth0-github-api/static/css/2.69121389.chunk.css",
+    "static/js/2.a58973b8.chunk.js": "/auth0-github-api/static/js/2.a58973b8.chunk.js",
+    "static/js/2.a58973b8.chunk.js.map": "/auth0-github-api/static/js/2.a58973b8.chunk.js.map",
+    "index.html": "/auth0-github-api/index.html",
+    "precache-manifest.05f939acd6bc843dddb7852a79001465.js": "/auth0-github-api/precache-manifest.05f939acd6bc843dddb7852a79001465.js",
+    "service-worker.js": "/auth0-github-api/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/auth0-github-api/static/css/2.69121389.chunk.css.map",
+    "static/css/main.b0cb1113.chunk.css.map": "/auth0-github-api/static/css/main.b0cb1113.chunk.css.map",
+    "static/js/2.a58973b8.chunk.js.LICENSE.txt": "/auth0-github-api/static/js/2.a58973b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/auth0-github-api/static/media/logo.db0721b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd1b679.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.a58973b8.chunk.js",
+    "static/css/main.b0cb1113.chunk.css",
+    "static/js/main.9ad30934.chunk.js"
+  ]
+}
