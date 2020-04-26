@@ -19,7 +19,7 @@ class Profile extends Component {
         }
         else {
             return (
-                <section className="github-profile">
+                <section className="github-profile container">
                     <div className="github-profile-info">
                         <a href={userdata.homeUrl} target="_blank" title={userdata.name || userdata.username}><img src={userdata.avatar} /></a>
                         <h2><a href={userdata.homeUrl} target="_blank" title={userdata.name || userdata.username}>{userdata.name}</a></h2>
